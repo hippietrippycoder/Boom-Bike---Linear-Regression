@@ -1,6 +1,6 @@
 # Boom Bikes - Linear Regression
-> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same.
-> You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. 
+You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
 
 ## Table of Contents
@@ -10,7 +10,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
@@ -23,7 +23,7 @@ How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 ## Conclusions
-- The best fitten line for this BoomBikes Liner Regression model equation is:
+- The best fitted line equation for this Multiple Liner Regression model on Boom Bikes is:
 
 cnt = (0.2350 X yr) + (0.0546 X workingday) + (0.4403 X atemp) + (-0.1931 X hum) + (-0.1201 X windspeed) + (-0.0417 X Dec) + (0.0342 X Mar) + (0.0377 X May) + (-0.0756 X Nov) + (0.0779 X Sep) + (0.0572 X sat) + (-0.1382 X Spring) + (0.0788 X winter)
 
